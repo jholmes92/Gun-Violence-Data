@@ -7,3 +7,6 @@ The Gun Violence dataset comprises records of over 260,000 gun violence incident
 # Source
 The data was collected from gunviolencearchive.org.
 https://www.kaggle.com/datasets/jameslko/gun-violence-data
+
+# Tableau Storyboard
+https://public.tableau.com/views/E_6_7-FinalDraft/Story1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
